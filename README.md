@@ -1,5 +1,5 @@
-# Alan Joffre
-My profile: Alan Joffre
+# Isaac Araújo
+My profile: Isaac Araújo
 
 <p align="center">
   <img alt="mulheres-vozes-escuta" src="./assets/capa-readme.png" width="100%">
@@ -20,4 +20,4 @@ Figma <br><br>
 
 Perfil de cartão de visitas agregando links externos.
 
-[Acesse o site online](https://alanjoffre.github.io/my-profile/)
+[Acesse o site online](https://isaacaraujo2006.github.io/my-profile/)
